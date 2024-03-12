@@ -68,6 +68,7 @@ main{
     margin-bottom: 20%;
     font-size: 90px;
     text-shadow: 4px 2px 5px rgb(63, 4, 38);
+    opacity: 0.8;
 }
 #Aboutus{
     margin-top: 25rem;
@@ -84,10 +85,24 @@ main{
     text-align: left;
     font-size: 50px;
     padding-bottom: 30px;
+    opacity: 0.8;
 }
 #para{
     text-align: justify;
 }
 #Products{
     margin-top: 25rem;
+}
+/*.fotos {
+  display: flex;
+    
+}
+#img1{
+    float: right;
+
+}*/
+.product{
+    background: white;
+    text-align: center;
+    font-size: 4rem;
 }
